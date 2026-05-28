@@ -45,5 +45,33 @@ The BOM below is converted from `production/PCB/USB HUB BOM.csv` into a Markdown
 
 
 
+## HOW TO REPLICATE?? - 
+
+
+
+**So basically heres how u can use this repo to make this USB HUB for yourselves. -**
+
+- Step 1 - Basically Just Clone or downlaod this repo from github.
+- Step 2 - In the the production folder you will find the CAD and PCB folders.
+- Step 3 - The CAD folder contains all the 3d Pritnable files for the enclosure for the PCB. If you wish to u can make any changes to the design or make your own design and use that instead.
+- Step 4 - The PCB folder contains the Gerbers, BOM , and CPL files. These are the files that allow you to get the PCB manufactured from JLCPCB (im using JLCPCB) or any other PCB manufacturer.
+- Step 5 - Upload the gerbers zip file in JLCPCB Place order Page (u will need to sign up to order but can get a quote without signing up)
+- Step 6 - Change the colour of the PCB in the options JLC gives (if u use JLC PCB most of the times canging colours does not add any charge acc to what i know)
+- Step 7 - Select PCBA if u want JLCPCB to assemble the PCB for you (you might have to choose standart if you want to them to assemble the Male USB A but yeah u could always solder that one component yourself.)
+- Step 8 - Upload the CPL and BOM files.
+- Step 9 - Recheck the position of all components (i faced no problem with this as all components were in the correct place but i have faced issues with the placement in one of my other projects i made in KiCAD)
+- Step 10 - Add to cart and order the PCB!! **(if you are soldering the male USB A yourself you will need to buy that from some other place)**
+- Step 11 - If you dont have a 3D PRINTER jlcpcb has a 3d printing service too caled JLC3DP so u can upload the files for the case there and get it printed too but if u have a 3d printer you can just print it youreslf and save a lot of money.
+- Step 12 - Order strong epoxy glue or superglue that does not cause harm to the 3d printed case material (I will be using FeviQuick as it should not cause harm to PLA in which the case will be printed)
+- Step 13 - WAIT WAIT WAIT for your parts to be delhivered
+- Step 14 - Once you have all the parts (PCB, CASE and the appropriate Glue) place the PCB in the Case (you might have to trim the spacers down a bit as i made the spacers high so that they arent to small as i can always cut higher spacers down but can extend spacers that are short.)  Use hot glue to secure the PCB onto the Spacers (IK i just didnt add and mounting holes but yeah its fine for this project.)
+- Step 15 - Once the PCB is secured inside the case glue the Bottom And the Top Parts of the Case shut.
+-  Step 16 - BOOM  THERE YOU HAVE IT MADE!!!
+
+
+
+
+
+
 # OTHER
 I will be using JLCPCB to manufacture the PCB and will be using printing legion's (a hackclub thing like these are the type of things why i love hackclub) to 3d print the case.
