@@ -6,6 +6,8 @@ Cool Stuff USB HUB is a USB Hub that was built by a 15 yr old(me) by following h
 
 It has 3 USB A 2.0 PORTS and 1 USB C Port for convinience.
 
+So I actually built this because i thought it would be a cool beginer PCB project (Which it is) and so yeah that's why i built it and leart many things that i didnt really fully understand before.
+
 # Folder:
 - `src/EasyEDA/` — EasyEDA project sources
 - `production/` — fabrication outputs
