@@ -87,7 +87,7 @@ So I actually built this because i thought it would be a cool beginer PCB projec
 
 # Note for customizing- 
 
-Si basically i made the PCB in EasyEDA Pro so if u like use KiCAD or some other software you will have to see how to like import the project since ngl IDK how to do that since if i start a project in KiCAD i finish it in KiCAD and if i Make a Projet in EasyEDA i try and finish it in EasyEDA as ngl its confusing to import an EasyEDA project into KiCAD.
+So basically i made the PCB in EasyEDA Pro so if u like use KiCAD or some other software you will have to see how to like import the project since ngl IDK how to do that since if i start a project in KiCAD i finish it in KiCAD and if i Make a Projet in EasyEDA i try and finish it in EasyEDA as ngl its confusing to import an EasyEDA project into KiCAD.
 
 
 
