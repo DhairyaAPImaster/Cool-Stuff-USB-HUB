@@ -50,7 +50,12 @@ So I actually built this because i thought it would be a cool beginer PCB projec
 | 7 | 1 | USB-05 | USB6 | USB-A-TH_USB-05 |  | USB-05 | SOFNG(硕方) | C112454 | LCSC |
 
 
-
+## How to USE????
+**This is pretty straightforward**
+- Step1- Replicate the project (see the below instructions on how to do that)
+- Step2- Once u have the USB HUB assembled plug the USB A Male connector Into your main device (laptop etc)
+- Step3- Attatch the devices you want to use with the main device to the other ports available on the USB HUB!! (eg - mouse, keyboard, and one of those fance pads that come with a stylus connected to laptop via the USB HUB)
+- Step4- DONE!!!!
 
 ## HOW TO REPLICATE?? - 
 
