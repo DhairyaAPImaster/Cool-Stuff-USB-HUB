@@ -51,7 +51,8 @@ It has 3 USB A 2.0 PORTS and 1 USB C Port for convinience.
 
 **So basically heres how u can use this repo to make this USB HUB for yourselves. -**
 
-- Step 1 - Basically Just Clone or downlaod this repo from github.
+- Step 1 - Basically Just Clone or downlaod this repo from github. U can do this by either going to the code button on this repo page and pressing download Zip or u can clone this Repo Or you can go to the Releases on this repo and download the Zip File there too (the fastest way to download is like just going to code and pressing download Zip Or by cloning the Repo.) <img width="1599" height="665" alt="image" src="https://github.com/user-attachments/assets/88c420bf-29ac-4c7a-be3e-fef8a0a62f53" />
+
 - Step 2 - In the the production folder you will find the CAD and PCB folders.
 - Step 3 - The CAD folder contains all the 3d Pritnable files for the enclosure for the PCB. If you wish to u can make any changes to the design or make your own design and use that instead.
 - Step 4 - The PCB folder contains the Gerbers, BOM , and CPL files. These are the files that allow you to get the PCB manufactured from JLCPCB (im using JLCPCB) or any other PCB manufacturer.
