@@ -30,7 +30,7 @@ It has 3 USB A 2.0 PORTS and 1 USB C Port for convinience.
 
 
 ## BOM
-The BOM below is converted from `production/PCB/USB HUB BOM.csv` into a Markdown table.
+**If u want u can find this BOM at `production/PCB/USB HUB BOM.csv` in CSV format.**
 
 | No. | Quantity | Comment | Designator | Footprint | Value | Manufacturer Part | Manufacturer | Supplier Part | Supplier |
 |-----:|:--------:|:--------|:-----------|:----------|:------|:------------------|:-------------|:--------------|:--------|
@@ -83,3 +83,14 @@ Si basically i made the PCB in EasyEDA Pro so if u like use KiCAD or some other 
 
 # OTHER
 I will be using JLCPCB to manufacture the PCB and will be using printing legion's (a hackclub thing like these are the type of things why i love hackclub) to 3d print the case.
+
+
+## Cost of full project
+- PCB from JLC PCB- 4 USD
+- PCBA from JLCPCB - 24.75 USD
+- JLCPCB Shipping cost - 9.26 USD
+- USB A male Connecor from Amazon - 1.35 USD
+- Amazon Shipping cost- 69 INR or - 0.73 USD
+- AVG tax on PCB - 6-7 USD
+- 3D printing Costs (will get printed from #printing-legion so only shipping price applicable) - 1-2 USD
+- **TOTAL - 48.09 USD** 
