@@ -18,7 +18,10 @@ It has 3 USB A 2.0 PORTS and 1 USB C Port for convinience.
 # PICS (cause what is a project without this?)
 
 
-
+<img src="blob:chrome-untrusted://media-app/0ce58f8b-d5d7-4f67-b1fa-ea7d459ae7bc" alt="Screenshot 2026-05-23 6.59.40 PM.png"/>
+<img src="blob:chrome-untrusted://media-app/eb781b55-2906-42da-a048-371d1b7f9972" alt="Screenshot 2026-05-23 7.00.06 PM.png"/>
+<img src="blob:chrome-untrusted://media-app/68a34cb5-027a-4f91-9dc5-479fae02cf32" alt="Screenshot 2026-05-23 8.02.44 PM.png"/>
+<img src="blob:chrome-untrusted://media-app/f47dcf66-aea1-4ad6-ad1b-e6a9856dcec6" alt="Screenshot 2026-05-23 8.02.04 PM.png"/>
 ![Screenshot 2026-05-23 224025](images/Screenshot%202026-05-23%20224025.png)
 ![Screenshot 2026-05-23 224222](images/Screenshot%202026-05-23%20224222.png)
 ![Screenshot 2026-05-24 103549](images/Screenshot%202026-05-24%20103549.png)
