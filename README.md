@@ -107,5 +107,5 @@ I will be using JLCPCB to manufacture the PCB and will be using printing legion'
 - USB A male Connecor from Amazon - 1.35 USD
 - Amazon Shipping cost- 69 INR or - 0.73 USD
 - AVG tax on PCB - 6-7 USD
-- 3D printing Costs (will get printed from #printing-legion so only shipping price applicable) - 1-2 USD
-- **TOTAL - 48.09 USD** 
+- 3D printing Costs (will get printed from #printing-legion so 0 cost)
+- **TOTAL - 47.09 USD** 
