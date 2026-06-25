@@ -1,6 +1,8 @@
 # Cool Stuff USB HUB
 **A USB HUB WITH 3 USB A PORTS AND 1 USB C PORT!**
 
+**OSHW LAB viewing Link --->   https://oshwlab.com/dhairyak/project_wohebgiy**
+
 # About:
 Cool Stuff USB HUB is a USB Hub that was built by a 15 yr old(me) by following hackclub's mocondo's starter project for a USB HUB. 
 
