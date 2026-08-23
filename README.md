@@ -38,7 +38,16 @@ So I actually built this because i thought it would be a cool beginer PCB projec
 
 
 
-## BOM
+## BOM's
+
+### BOM for what i ordered --->
+
+| QTY | PRODUCT | COST | LINK | SUPPLIER |
+|-----|---------|------|------|----------|
+| 5 | USB HUB PCB's and standard PCBA | 30.4 | jlcpcb.com | JLCPCB |
+| 1 | USB A Male Port | 2.07 | https://www.amazon.in/dp/B07D7FYVYT?ref=ppx_yo2ov_dt_b_fed_asin_title | Amazon |
+
+### BOM for PCB components and Passives--->
 **If u want u can find this BOM at `production/PCB/USB HUB BOM.csv` in CSV format.**
 
 | No. | Quantity | Comment | Designator | Footprint | Value | Manufacturer Part | Manufacturer | Supplier Part | Supplier |
