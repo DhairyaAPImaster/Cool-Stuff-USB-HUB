@@ -21,18 +21,36 @@ So I actually built this because i thought it would be a cool beginer PCB projec
 
 # PICS (cause what is a project without this?)
 
+
+## IRL PROJECT PICS ---> 
+
+
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/2aeab6d8-ce56-443f-a51c-127a9a3ffb53" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/6a4fc27a-8173-40d6-938e-1d8efa60c3ed" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/c3730a4a-edc4-471f-971a-c96be1cf277e" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/fd38f9ee-4afa-47c2-910d-dda96052e0d0" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/0379369c-1efd-45a4-a8f2-0e27a2550b37" />
+
+
+
+
+
+
+
+
+
+
+
+## Design
 <img width="1253" height="815" alt="Screenshot 2026-05-23 8 02 44 PM" src="https://github.com/user-attachments/assets/6e9e2cea-c669-456c-8c50-1958c6f6c5fb" />
-<img width="1919" height="1079" alt="Screenshot 2026-05-23 8 02 04 PM" src="https://github.com/user-attachments/assets/6822c892-5d60-4ed0-a512-7da88680dc52" />
 
 <img width="1919" height="1029" alt="Screenshot 2026-05-23 7 00 06 PM" src="https://github.com/user-attachments/assets/60223870-f1e1-4bb4-8f3c-748a2b788b2d" />
 <img width="1919" height="1029" alt="Screenshot 2026-05-23 6 59 40 PM" src="https://github.com/user-attachments/assets/b1adafe9-10e6-4e37-b7e9-c4750e6af8a6" />
 
 
 ![Screenshot 2026-05-23 224025](images/Screenshot%202026-05-23%20224025.png)
-![Screenshot 2026-05-23 224222](images/Screenshot%202026-05-23%20224222.png)
-![Screenshot 2026-05-24 103549](images/Screenshot%202026-05-24%20103549.png)
-![Screenshot 2026-05-24 112207](images/Screenshot%202026-05-24%20112207.png)
-![Screenshot 2026-05-24 112219](images/Screenshot%202026-05-24%20112219.png)
+
+
 ![Screenshot 2026-05-24 112232](images/Screenshot%202026-05-24%20112232.png)
 ![Project graphic](images/cappybara.svg)
 
